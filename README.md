@@ -40,4 +40,15 @@ Run production build with a different env file.
 
 ## Additional Notes
 
-- If `npm run dev` gives you issues with bcrypt on MacOS you may need to run: `npm rebuild bcrypt --build-from-source`. 
+- If `npm run dev` gives you issues with bcrypt on MacOS you may need to run: `npm rebuild bcrypt --build-from-source`.
+
+
+## 開発用サーバ軌道
+```
+npm run dev
+```
+
+## Webページを作成する
+```
+
+```
