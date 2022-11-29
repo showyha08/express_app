@@ -47,8 +47,3 @@ Run production build with a different env file.
 ```
 npm run dev
 ```
-
-## Webページを作成する
-```
-
-```

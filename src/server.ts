@@ -58,6 +58,10 @@ app.use((
 });
 
 
+import helloRouter from './routes/hello'
+
+app.set('view engine', 'ejs')
+app.use('/hello',helloRouter)
 // **** Serve front-end content **** //
 
 // Set views directory (html)
